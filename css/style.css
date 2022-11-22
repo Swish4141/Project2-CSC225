@@ -1,0 +1,25 @@
+
+
+.hero {
+    background-image:url(../img/game-hero.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.min-vh-75 {
+    min-height:75vh !important;
+}
+
+.heading-1 {
+    font-size:52px;
+    font-weight:normal;
+}
+
+.w-65 {
+    width:65%;
+}
+
+h1{
+    text-shadow: 3px 3px 7px black;
+}
+
